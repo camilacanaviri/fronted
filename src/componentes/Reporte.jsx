@@ -101,7 +101,7 @@ const Reporte = (props) => {
                 {descripcion}
               </td>
               <td className="td-item">
-                <p className="item-2">Sub Total</p>
+                <p className="item-2">Sub Totalde todo </p>
               </td>
               <td className="item-3">
                 <p>bs.</p>
